@@ -17,7 +17,7 @@ const Header = ({ marca }) => {
                             <a className="nav-link" href="/">About</a>
                           </li>
                           <li className="nav-item">
-                            <a className="nav-link" href="#galeria">Projetos</a>
+                            <a className="nav-link" href="#projetos">Projetos</a>
                           </li>
                           <li className="nav-item">
                             <a className="nav-link" href="#footer">Footer</a>

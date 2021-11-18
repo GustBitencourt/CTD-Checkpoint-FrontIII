@@ -9,7 +9,7 @@ const Footer = ({ autor, children }) => {
 
     return(
         <footer id="footer" className={`d-flex flex-wrap justify-content-center align-items-center py-3 border-top text-dark bg-dark`}>
-            <h3>{ autor } Todos os direitos reservado. &copy; Copyright { generateDateString() }  </h3>
+            <h3>{ autor } - Todos os direitos reservado. &copy; Copyright { generateDateString() }  </h3>
         </footer>
 
     )

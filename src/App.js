@@ -35,7 +35,7 @@ export default class App extends Component {
             </div>
           </section>
           </Banner>
-          <Projects />
+          <Projects id="projetos"/>
         </main>                        
         <Footer marca={this.autor} />              
       </>  
