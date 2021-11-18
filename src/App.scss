@@ -1,0 +1,15 @@
+#title {
+
+    a {
+        text-decoration: none;
+        color: #f7a206;
+        transition: all .3s ease-in-out;
+        font-weight: bold;
+        font-size: 2rem;
+
+        &:hover {
+            color: #8ecae6;
+
+        }
+    }
+}
